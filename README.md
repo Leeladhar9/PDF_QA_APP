@@ -13,15 +13,19 @@ This app can answer questions from the pdf using LLM
 - Enter Your OpenAI API Key:
 
 Securely input your OpenAI API key in the provided text box. 
+
 Ensure you have an active OpenAI subscription.
 - Upload a PDF File:
 
 Use the Upload a PDF file section to upload your document. 
+
 Only .pdf files are supported.
 - Ask Questions:
 
 Type your question in the text box related to the uploaded PDF.
+
 Click Get Answer to receive a response based on the PDF content.
+
 - View the Response:
 
 The app will display the answer from OpenAI.
