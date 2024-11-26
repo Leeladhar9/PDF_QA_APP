@@ -25,3 +25,4 @@ Click Get Answer to receive a response based on the PDF content.
 The app will display the answer from OpenAI.
 
 ## OUTPUT:
+![PDF question and answer app](LLM.jpg)
