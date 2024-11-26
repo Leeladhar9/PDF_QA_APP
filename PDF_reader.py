@@ -1,3 +1,5 @@
+#pip install pdfplumber
+#pip install openai==0.28
 import streamlit as st
 import pdfplumber
 import openai
